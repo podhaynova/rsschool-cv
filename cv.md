@@ -5,6 +5,11 @@
 * ### GitHub: [podhaynova](https://github.com/podhaynova)
 ## About Me
 Having started my career as a manager I realized that I want to be more self educated in programming. At first it was machine learning course from RS School, and now it is a Java script course.
+## Skills:
+* Pandas
+* Python
+* HTML, CSS
+* Git
 ## Code example:
 ```
 plt.figure(figsize=(16, 6)) 
